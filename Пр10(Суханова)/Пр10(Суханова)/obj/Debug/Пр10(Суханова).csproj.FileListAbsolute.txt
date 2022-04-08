@@ -1,0 +1,31 @@
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\bin\Debug\Пр10(Суханова).exe.config
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\bin\Debug\Пр10(Суханова).exe
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\bin\Debug\Пр10(Суханова).pdb
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова)_MarkupCompile.cache
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова)_MarkupCompile.lref
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).g.resources
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10_Суханова_.Properties.Resources.resources
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).exe
+C:\Users\Студент\Desktop\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).pdb
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\bin\Debug\Пр10(Суханова).exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\bin\Debug\Пр10(Суханова).exe
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\bin\Debug\Пр10(Суханова).pdb
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова)_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова)_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10_Суханова_.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).exe
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\Пр10(Суханова).pdb
+C:\Users\ekate\OneDrive\Рабочий стол\Пр10(Суханова)\Пр10(Суханова)\obj\Debug\App.baml
